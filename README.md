@@ -9,7 +9,7 @@ Hardware information of what various Synology models support
 * [How to disable DSM and package auto updates](pages/disable_auto_updates.md)
 
 ### Package Information
-* [How to automatically uninstall Active Insight after a DSM update](pages/uninstall_active_insight)
+* [How to automatically uninstall Active Insight after a DSM update](pages/uninstall_active_insight.md)
 
 ### General Hardware Information
 * [2025_and_later_Plus_model_drive_restrictions](pages/2025plus_drives.md)
